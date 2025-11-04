@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Raquel Gonzalez Carrillo 4 de Noviembre de 2025-->
+<restaurante>
+<nombre> Restaurante LMGSI </nombre>
+<recetas>
+    <receta>
+        <nombre id="1"> Sopa de cebolla </nombre>
+        <num_comensales> 4 </num_comensales>
+        <ingredientes xmlns="https://ingredientes">
+            <ingrediente cantidad="Kg"> 1  de cebollas </ingrediente>
+            <ingrediente cantidad="L"> 2  de caldo de carne </ingrediente>
+            <ingrediente cantidad="gr"> 100  de mantequilla </ingrediente>
+            <ingrediente cantidad="cucharada"> 1  de harina </ingrediente>
+            <ingrediente cantidad="gr"> 100  de queso emmental suizo o gruyere rallado </ingrediente>
+            <ingrediente> Pan tostado en rebanadas </ingrediente>
+            <ingrediente> Tomillo </ingrediente>
+            <ingrediente> Pimienta </ingrediente>
+            <ingrediente> 1 hoja de laurel </ingrediente>
+        </ingredientes>
+        <preparacion xmlns="https://preparacion"> 
+            <paso>Pelar y partir las cebollas en rodajas finas.</paso>
+            <paso> Rehogarlas con la mantequilla, sal y pimienta a fuego lento hasta que estén transparentes sin dorarse. </paso>
+            <paso> Añadir la harina sin dejar de remover. </paso>
+            <paso> Ponerlo en una cazuela con el caldo, el tomillo y el laurel. </paso>
+            <paso> Dejar cocer a fuego lento durante unos 15 minutos</paso>
+            <paso> Poner las rebanadas de pan encima, espolvorar el queso y gratinar al horno </paso>
+        </preparacion>
+        <informacion_nutricional xmlns="https://informacion_nutricional">
+            <energias cantidad="kcal"> 250  </energias>
+            <proteinas cantidad="g"> 10 </proteinas>
+            <grasas cantidad="g"> 12 </grasas>
+            <hidratos cantidad="g"> 20 </hidratos>
+        </informacion_nutricional>
+    </receta>
+
+</recetas>
+</restaurante>

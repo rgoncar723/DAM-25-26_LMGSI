@@ -1,0 +1,67 @@
+{
+	"Restaurante": [
+		{
+            "Nombre": "Restaurante LMGSI",
+			"recetas": [
+				{
+					"Nombre": "Sopa de cebolla",
+					"Num_comensales": "4",
+					"Ingredientes": [
+						{
+							"ingrediente": "cebollas",
+							"cantidad": "1 Kg"
+						},
+						{
+							"ingrediente": "mantequilla",
+							"cantidad": "100 g"
+						},
+						{
+                            "ingrediente": "caldo de carne",
+                            "cantidad": "2 Litros"
+                        },
+                        {
+                            "ingrediente": "harina",
+                            "cantidad": "1 cucharada"
+                        },
+                        {
+                            "ingrediente": "queso emmental suizo o gruyere rallado",
+                            "cantidad": "100 g"
+                       },
+                      {
+                        "ingrediente": "Pan tostado en rebandas"
+                      },
+                      {
+                        "ingrediente": "Tomillo",
+                        "cantidad": "al gusto"
+                      }, 
+                      {
+                        "ingrediente": "Pimienta",
+                        "cantidad": "al gusto"
+                      },
+                      {
+                        "ingrediente": "hoja de laurel",
+                        "cantidad": "1"
+                      }
+                    ],
+                    "Preparacion": [
+                        "Pelar y partir las cebollas en rodajas finas.",
+                        "Rehogarlas con la mantequilla, sal y pimienta a fuego lento hasta que estén transparentes sin dorarse.",
+                        "Añadir la harina sin dejar de remover.",
+                        "Ponerlo en una cazuela con el caldo, el tomillo y el laurel. ",
+                        "Cocinar a fuego lento durante 30 minutos.",
+                        "Dejar cocer a fuego lento durante unos 15 minutos",
+                        "Poner las rebanadas de pan encima, espolvorar el queso y gratinar al horno"
+                    ],
+                    "Informacion_Nutricional":[
+                        {
+                            "Calorias": "250 kcal",
+                            "Proteinas": "10 g",
+                            "Carbohidratos": "12 g",
+                            "Grasas": "20 g"
+                        }
+                    ]
+				}
+			]
+		}
+	]
+}
